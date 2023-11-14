@@ -1,0 +1,22 @@
+[
+  { "_id": "WD101",
+    "name": "HTML", "number": "WD4550", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  { "_id": "WD102",
+    "name": "CSS", "number": "WD4560", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+  { "_id": "WD103",
+    "name": "Bootstrap", "number": "WD4570", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+  { "_id": "WD104",
+    "name": "JavaScript", "number": "WD4550", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  { "_id": "WD105",
+    "name": "React", "number": "WD4560", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+  { "_id": "WD106",
+    "name": "Node", "number": "WD4570", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  }
+]

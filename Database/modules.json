@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "M101",
+    "name": "Introduction to HTML",
+    "description": "Starting to learn HTML.",
+    "course": "WD101",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "Intro to HTML - Lesson 1",
+        "description": "Lesson 1 - Introduction to HTML",
+        "module": "M101"
+      },
+      {
+        "_id": "L102",
+        "name": "Intro to HTML - Lesson 2",
+        "description": "Lesson 2 - Introduction to HTML",
+        "module": "M101"
+      },
+      {
+        "_id": "L103",
+        "name": "Intro to HTML - Lesson 3",
+        "description": "Lesson 3 - Introduction to HTML",
+        "module": "M101"
+      }
+    ]
+  },
+  {
+    "_id": "M102",
+    "name": "Formatiing with Headings & Tables",
+    "description": "Learning how to format HTML with headings and tables.",
+    "course": "WD101",
+    "lessons": [
+      {
+        "_id": "L201",
+        "name": "Headings",
+        "description": "Learning headings",
+        "module": "M102"
+      },
+      {
+        "_id": "L202",
+        "name": "Tables",
+        "description": "Learning tables.",
+        "module": "M102"
+      }
+    ]
+  },
+  {
+    "_id": "M103",
+    "name": "Creating Web Forms",
+    "description": "Learn how to create web forms with HTML.",
+    "course": "WD101"
+  },
+  {
+    "_id": "M201",
+    "name": "Intro to CSS",
+    "description": "Introduction to cascading style sheets.",
+    "course": "WD102",
+    "lessons": [
+      {
+        "_id": "L101",
+        "name": "Intro to CSS - Lesson 1",
+        "description": "Lesson 1 - Introduction to CSS",
+        "module": "M101"
+      },
+      {
+        "_id": "L102",
+        "name": "Intro to CSS - Lesson 2",
+        "description": "Lesson 2 - Introduction to CSS",
+        "module": "M101"
+      },
+      {
+        "_id": "L103",
+        "name": "Intro to CSS - Lesson 3",
+        "description": "Lesson 3 - Introduction to CSS",
+        "module": "M101"
+      }
+    ]
+  },
+  {
+    "_id": "M202",
+    "name": "Float",
+    "description": "Learning how to render elements with floats.",
+    "course": "WD102"
+  },
+  {
+    "_id": "M203",
+    "name": "Flex",
+    "description": "Learning how to render elements with flex.",
+    "course": "WD102"
+  },
+  {
+    "_id": "M301",
+    "name": "Intro to bootstrap",
+    "description": "Introduction to bootstrap.",
+    "course": "WD103"
+  },
+  {
+    "_id": "M302",
+    "name": "Bootstrap Navigation",
+    "description": "Learning how to implement navigation with bootstrap.",
+    "course": "WD103"
+  },
+  {
+    "_id": "M303",
+    "name": "Showing and Hiding content with Bootstrap",
+    "description": "Leaning how to dynamically render elements bootstrap.",
+    "course": "WD103"
+  },
+  {
+    "_id": "M401",
+    "name": "Introduction to JavaScript",
+    "description": "Learn the basics of JavaScript.",
+    "course": "WD104"
+  },
+  {
+    "_id": "M402",
+    "name": "Variables and Functions",
+    "description": "Learn how to use variables and functions in JS.",
+    "course": "WD104"
+  },
+  {
+    "_id": "M403",
+    "name": "Arrays and Strings",
+    "description": "Learn how to use arrays and strings in JS.",
+    "course": "WD104"
+  },
+  {
+    "_id": "M501",
+    "name": "Intro to React",
+    "description": "Learn the basics of react.",
+    "course": "WD105"
+  },
+  {
+    "_id": "M502",
+    "name": "Using Bootstrap in React",
+    "description": "Learning how to use bootstrap in a react application",
+    "course": "WD105"
+  },
+  {
+    "_id": "M503",
+    "name": "Rendering Dynamic Content",
+    "description": "Learning how to render dynamic content in react.",
+    "course": "WD105"
+  },
+  {
+    "_id": "M601",
+    "name": "Intro to Node",
+    "description": "Introduction to Node.js.",
+    "course": "WD106"
+  },
+  {
+    "_id": "M602",
+    "name": "Creating an HTTP Server",
+    "description": "Learn how to create an http server in node.js .",
+    "course": "WD106"
+  },
+  {
+    "_id": "M603",
+    "name": "Intro to RESTful APIs",
+    "description": "Introduction to RESTful APIs.",
+    "course": "WD106"
+  }
+]

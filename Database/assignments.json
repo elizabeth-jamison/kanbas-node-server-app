@@ -1,0 +1,20 @@
+[
+  { "_id": "A101", "title": "A1", "course": "WD101" },
+  { "_id": "A102", "title": "A2", "course": "WD101" },
+  { "_id": "A103", "title": "A3", "course": "WD101" },
+  { "_id": "A201", "title": "A1", "course": "WD102" },
+  { "_id": "A202", "title": "A2", "course": "WD102" },
+  { "_id": "A203", "title": "A3", "course": "WD102" },
+  { "_id": "A301", "title": "A1", "course": "WD103" },
+  { "_id": "A302", "title": "A2", "course": "WD103" },
+  { "_id": "A303", "title": "A3", "course": "WD103" },
+  { "_id": "A401", "title": "A1", "course": "WD104" },
+  { "_id": "A402", "title": "A2", "course": "WD104" },
+  { "_id": "A403", "title": "A3", "course": "WD104" },
+  { "_id": "A501", "title": "A1", "course": "WD105" },
+  { "_id": "A502", "title": "A2", "course": "WD105" },
+  { "_id": "A503", "title": "A3", "course": "WD105" },
+  { "_id": "A601", "title": "A1", "course": "WD106" },
+  { "_id": "A602", "title": "A2", "course": "WD106" },
+  { "_id": "A603", "title": "A2", "course": "WD106" }
+]
